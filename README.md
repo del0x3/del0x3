@@ -16,7 +16,7 @@ Learn more about my progress on TryHackMe [here](https://tryhackme.com/p/Del3).
 ## 🚀 Skills and Interests
 - **Network Security**: VPNs, Docker.
 - **Operating Systems**: WSL, Kali Linux, and troubleshooting.
-- **Languages**: Improving my English while scripting in Python, PowerShell, etc.
+- **Languages**: Python, PowerShell, etc.
 - **Self-Learning**: Leveraging online resources and structured plans.
 
 ---
